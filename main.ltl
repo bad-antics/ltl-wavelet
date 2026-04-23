@@ -1,0 +1,15 @@
+// ltl-wavelet/main.ltl
+//
+// Discrete Haar / Daubechies wavelet transforms.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-wavelet v0.1.0")
+    io::println("Discrete Haar / Daubechies wavelet transforms.")
+    0
+}
